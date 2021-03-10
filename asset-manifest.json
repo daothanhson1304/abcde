@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abcde.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/abcde.git/static/js/main.89d2a96e.chunk.js",
+    "main.js.map": "/abcde.git/static/js/main.89d2a96e.chunk.js.map",
+    "runtime-main.js": "/abcde.git/static/js/runtime-main.02598512.js",
+    "runtime-main.js.map": "/abcde.git/static/js/runtime-main.02598512.js.map",
+    "static/js/2.43329159.chunk.js": "/abcde.git/static/js/2.43329159.chunk.js",
+    "static/js/2.43329159.chunk.js.map": "/abcde.git/static/js/2.43329159.chunk.js.map",
+    "static/js/3.44f5a4e5.chunk.js": "/abcde.git/static/js/3.44f5a4e5.chunk.js",
+    "static/js/3.44f5a4e5.chunk.js.map": "/abcde.git/static/js/3.44f5a4e5.chunk.js.map",
+    "index.html": "/abcde.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/abcde.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.43329159.chunk.js.LICENSE.txt": "/abcde.git/static/js/2.43329159.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/abcde.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02598512.js",
+    "static/js/2.43329159.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.89d2a96e.chunk.js"
+  ]
+}
